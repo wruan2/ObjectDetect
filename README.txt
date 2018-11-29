@@ -1,3 +1,5 @@
+CS 3307 Final Project
+Group 14: Amber Rosevear, Nathan Dinatale, Hamza Bana, Jinhwi Kim, William Ruan
 To compile:
 
 OpenCV 3.4.3 is required
