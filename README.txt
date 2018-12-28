@@ -18,4 +18,4 @@ TESTS WITH MEDIA PROVIDED:
 
 NOTES:
 
-Two or more images must be provided when comparing images. Otherwise the program will fail.
+Two or more images must be provided when comparing images.
